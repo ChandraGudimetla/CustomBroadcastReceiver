@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomBroadcastSample</string>
+    <string name="custom_broadcast_sample">Custom Broadcast Sample</string>
+    <string name="airplane_mode_change">Airplane Mode is changed</string>
+    <string name="power_connected">Power Connected!</string>
+    <string name="power_disconnected">Power Disconnected!!!</string>
+    <string name="custom_broadcast_toast">Custom Broadcast Received</string>
+</resources>
